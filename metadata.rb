@@ -9,6 +9,7 @@ version '1.5.0'
 depends 'git'
 depends 'ark', '>= 0.7.2'
 depends 'nginx'
+depends 'apache2'
 
 supports 'ubuntu'
 supports 'debian'
